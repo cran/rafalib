@@ -1,5 +1,5 @@
-ff758f9771abd3d8f7e182fbaa2d61b2 *DESCRIPTION
-281a04f93a3d0d224b0f80fbe0c5b1b7 *NAMESPACE
+c4bc9d6816d713bab293eb2ab793bd13 *DESCRIPTION
+0bf207030cdd2892c5a0318eb57e7b7f *NAMESPACE
 392c1b2fd54fc7c07dad3a0a00ec2d39 *R/as.fumeric.R
 70359d05a295446041935db05b9e479c *R/bartab.R
 57bad87e80fd082cbf07581579f620aa *R/imagemat.R
@@ -11,7 +11,7 @@ f4f0c2b809c9a4f5aa5b29fdc29f332f *R/largeobj.R
 aa4699f4313e2d531095369dcdf1d0b2 *R/myplclust.R
 5683b3424b4175ee37e4c6c26aa9f9bb *R/nullplot.R
 1f0ea832636bf70d280e5e24a17c1842 *R/peek.R
-cef14b4b1eb083e25e3455d8bc9a48bc *R/popvar.R
+f49aca384fc5e9c3c7da81acd56e72c5 *R/popvar.R
 e24b9b618b3a2f607a41a7df256f2e2e *R/sboxplot.R
 53794c284a7ae01abaeb2997c58056ec *R/shist.R
 788794e7c03986d61514bdc82ba662ae *R/splitit.R

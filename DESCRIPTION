@@ -1,6 +1,6 @@
 Package: rafalib
 Type: Package
-Version: 1.0.3
+Version: 1.0.4
 Title: Convenience Functions for Routine Data Exploration
 Authors@R: c(person(c("Rafael", "A."), "Irizarry", email = "rafael_irizarry@dfci.harvard.edu",
                   role = c("aut", "cre")),
@@ -13,9 +13,9 @@ License: Artistic-2.0
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-03-25 20:41:02 UTC; rafa
+Packaged: 2025-04-08 03:20:14 UTC; rafa
 Author: Rafael A. Irizarry [aut, cre],
   Michael I. Love [aut]
 Maintainer: Rafael A. Irizarry <rafael_irizarry@dfci.harvard.edu>
 Repository: CRAN
-Date/Publication: 2025-03-25 23:00:02 UTC
+Date/Publication: 2025-04-08 04:00:02 UTC
